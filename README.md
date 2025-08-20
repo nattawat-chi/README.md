@@ -1,14 +1,15 @@
 # Hi, I'm Nattawat 👋  
 
-## 🌐 Live Projects  
-- 🛍️ Catalog App → [allure-mart-iota.vercel.app](https://allure-mart-iota.vercel.app/)  
+
 
 I am a **Full Stack Developer** with a strong interest in building scalable, user-friendly web applications.  
 I am skilled at using **AI tools** to improve code quality, optimize productivity, and explore innovative solutions.  
 Passionate about **continuous learning**, I actively research and follow emerging technologies, particularly in **AI and modern web development**.  
 
 ---
-
+## 🌐 Live Projects  
+- 🛍️ Catalog App → [allure-mart-iota.vercel.app](https://allure-mart-iota.vercel.app/)
+  
 ## 🛠️ Core Skills & Technologies  
 - **Frontend**: React, Next.js, TypeScript, TailwindCSS  
 - **Backend**: Node.js, Express, RESTful APIs  
@@ -47,9 +48,9 @@ A product catalog system for showcasing items online.
 ---
 
 ## 📫 Contact Information  
-- Email: **your-email@example.com**  
-- LinkedIn: [linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)  
+- Email: **nattawatchi2140@gmail.com**  
+- LinkedIn: [linkedin.com/in/nattawat-chitaphonphan](https://www.linkedin.com/in/nattawat-chitaphonphan/)  
+- Portfolio: [-](https://your-portfolio.com)  
 
 ---
 ⭐️ From [nattawat-chi](https://github.com/nattawat-chi)
